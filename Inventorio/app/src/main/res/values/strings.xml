@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Inventorio</string>
+    <string name="username_label">Username:</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string name="register_success">User successfully added!</string>
+    <string name="register_fail_user_exists">User already exists!</string>
+    <string name="auth_failed">Username or Password doesn\'t match!</string>
+    <string name="logo_desc">Logo</string>
+    <string name="add_item_fab_desc">Add item FAB.</string>
+    <string name="add_notification_desc">Add low stock notification.</string>
+
+    <string name="no_items">No items in inventory.</string>
+    <string name="add_product">Add a Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_location">Product Location</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="add_product_button">Add Product</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="add_product_success">Product added successfully!</string>
+    <string name="add_product_fail">Failed to add product!</string>
+    <string name="negative_quantity">Quantity cannot be negative!</string>
+
+    <string name="product">Product</string>
+    <string name="location">Location</string>
+    <string name="quantity">QTY</string>
+    <string name="quantity_change_fail">Unable to update quantity!</string>
+
+    <string name="permissions_sms_title">Permission Request</string>
+    <string name="permissions_sms_desc">This app requires permission to send SMS notifications for low inventory stock. If approved, an SMS will be delivered every 10 minutes for products at or below the quantity specified.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="deny_permission">Deny</string>
+    <string name="denied_message">Request has been denied, no alerts will be sent.</string>
+    <string name="sms_sent">Sent alert.</string>
+    <string name="alerts_started">Alert service started.</string>
+    <string name="phone_number">Enter your phone number…</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="update_product">Update Product</string>
+
+    <string name="unable_to_delete">Unable to delete product!</string>
+    <string name="success_delete">Successfully deleted product!</string>
+
+    <string name="product_not_updated">No updates were made.</string>
+    <string name="product_updated">Product successfully updated.</string>
+    <string name="quantity_threshold">Quantity Threshold</string>
+    <string name="threshold">Threshold:</string>
+    <string name="price">Price</string>
+    <string name="location_shorthand">Loc</string>
+    <string name="brand">Brand</string>
+</resources>
