@@ -7,7 +7,6 @@ Capstone enhancement of my inventory management app 'Inventorio'
 - [Prerequisites](#prerequisites)
 - [Building](#building)
 - [Usage](#usage)
-- [Controls](#controls)
 - [Known Bugs](#known-bugs)
 
 ## About
